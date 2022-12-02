@@ -6,6 +6,7 @@
   <a href="https://github.com/SonicCloudOrg/sonic-server/blob/main/README.md">  
     English
   </a>
+  
   <span>| 简体中文</span>
 </p>
 <p align="center">
